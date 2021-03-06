@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Tenis Vans Old Skool Pro Original Frete Grátis",
+      "description": "Cor: Preto, Tamanho: 39",
+      "image_url": "https://http2.mlstatic.com/D_Q_NP_2X_994710-MLB44797102515_022021-AB.webp",
+      "singlePrice": 349.00,
+      "quantity": 12,
+      "productPrice": 33.15,
+      "productShipping": "Frete gratis"
+    },
+    {
+      "id": "2",
+      "title": "Tênis Old Pro Red True White Frete Grátis",
+      "description": "Cor: Vermelho, Tamanho: 41",
+      "image_url": "https://http2.mlstatic.com/D_Q_NP_853406-MLB44428092906_122020-AB.webp",
+      "singlePrice": 379.89,
+      "quantity": 12,
+      "productPrice": 31.66,
+      "productShipping": "Frete gratis"
+    },
+    {
+      "id": "3",
+      "title": "Tênis Authentic Pro Suede Frete Grátis",
+      "description": "Cor: Preto, Tamanho: 39",
+      "image_url": "https://http2.mlstatic.com/D_Q_NP_2X_956084-MLB44345585421_122020-AB.webp",
+      "singlePrice": 299.00,
+      "quantity": 12,
+      "productPrice": 24.99,
+      "productShipping": "Frete gratis"
+    },
+    {
+      "id": "4",
+      "title": "Tênis Sk8 Hi Night Sky True Frete Grátis",
+      "description": "Cor: Preto, Tamanho: 41",
+      "image_url": "https://http2.mlstatic.com/D_Q_NP_2X_916201-MLB44391692518_122020-AB.webp",
+      "singlePrice": 349.89,
+      "quantity": 12,
+      "productPrice": 29.16,
+      "productShipping": "Frete gratis"
+    },
+    {
+      "id": "5",
+      "title": "Tênis Ultrarange Rapidweld Checkerboard Frete Grátis",
+      "description": "Cor: Azul, Tamanho: 41",
+      "image_url": "https://http2.mlstatic.com/D_Q_NP_2X_610914-MLB44354918925_122020-AB.webp",
+      "singlePrice": 349.89,
+      "quantity": 12,
+      "productPrice": 31.66,
+      "productShipping": "Frete gratis"
+    }
+  ]
+}
